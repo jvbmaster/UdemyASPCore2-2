@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\UdemyASPCore2-2\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\UdemyASPCore2-2\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\Master\\source\\repos\\Udemy\\LojaVirtualASPCore2-2\\UdemyASPCore2-2\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
